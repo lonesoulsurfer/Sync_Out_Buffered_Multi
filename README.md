@@ -1,4 +1,5 @@
-![IMG_1373](https://github.com/user-attachments/assets/01020d3c-35a1-4729-8820-d0fab549e49d)
+![thumbnail_IMG_1372](https://github.com/user-attachments/assets/db6cac9d-b04d-4177-9726-467bc478f5b3)
+
 
 
 Buffered Multiple for Modular Synths - Powered by Arduino
