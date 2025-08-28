@@ -1,8 +1,8 @@
+Buffered Multiple for Modular Synths - Powered by Arduino
+
+
 ![thumbnail_IMG_1372](https://github.com/user-attachments/assets/db6cac9d-b04d-4177-9726-467bc478f5b3)
 
-
-
-Buffered Multiple for Modular Synths - Powered by Arduino
 
 
 Takes one sync input signal and produces six individually configurable outputs
