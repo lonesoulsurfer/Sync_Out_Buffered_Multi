@@ -7,22 +7,24 @@ Takes one sync input signal and produces six individually configurable outputs
       Clock division (1/2, 1/4, 1/8)
       Three groove patterns:
 
-GS: Swing (delays off-beats by fixed amount)
-GF: Shuffle (creates triplet-based rhythm)
-GH: Humanize (adds random timing variations)
+- GS: Swing (delays off-beats by fixed amount)
+- GF: Shuffle (creates triplet-based rhythm)
+- GH: Humanize (adds random timing variations)
+
+
 Groove Implementation 
 
-Swing (GS) = consistent delayed off-beats
+- Swing (GS) = consistent delayed off-beats
 Delays off-beats by shifting timing up to 66% through beat
 Very classic swing feel at 50-75% intensities
 Clean implementation with consistent timing
 
-Shuffle (GF) = polyrhythmic feel with specific timing ratios
+- Shuffle (GF) = polyrhythmic feel with specific timing ratios
 Creates 2-against-3 feel using weighted offset timing
 Distinct from swing - pushes toward triplet territory
 At 75%, approaches dotted 8th feeling (funkier)
 
-Humanize (GH) = unpredictable variations
+- Humanize (GH) = unpredictable variations
 Adds random timing variation around off-beats
 Much stronger randomization (up to 40% of beat)
 More chaotic/organic feel compared to others
