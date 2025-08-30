@@ -4,7 +4,7 @@ Buffered Multiple for Modular Synths - Powered by Arduino
 ![thumbnail_IMG_1372](https://github.com/user-attachments/assets/db6cac9d-b04d-4177-9726-467bc478f5b3)
 
 Vid of the Sync in action
-https://studio.youtube.com/video/81T7WBMwU_8/edit
+https://youtu.be/81T7WBMwU_8
 
 
 Step by ste[ guide (Instructables)
