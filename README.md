@@ -7,7 +7,7 @@ Vid of the Sync in action
 https://youtu.be/81T7WBMwU_8
 
 
-Step by ste[ guide (Instructables)
+Step by step guide (Instructables)
 https://www.instructables.com/Buffered-Multiple-for-Modular-Synths-Powered-by-Ar/
 
 
